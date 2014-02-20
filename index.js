@@ -1,4 +1,4 @@
-var span = require('span')
+var span = require('godmodelabs-span')
 
 module.exports = timestamp
 
